@@ -27,7 +27,7 @@ class Alfin extends Orang {
 
 
 $mhs = new Alfin("alfin",20);
-
+echo $mhs;
 
 ?>
 <!DOCTYPE html>
