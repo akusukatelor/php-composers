@@ -1,0 +1,21 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background-color: rgb(245, 245, 245);
+    color: black;
+    text-align: center;
+    line-height: auto;
+    border: 1px solid red;
+    height: 50px;
+    border-radius: 20%;
+}

@@ -1,0 +1,19 @@
+{
+    "name": "alfin/coba",
+    "description": "php composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Alfin\\Coba\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alfin",
+            "email": "sjsjshdhsjajsshdhdhdh@gmail.com"
+        }
+    ],
+    "require": {
+        
+    }
+}
